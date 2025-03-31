@@ -1,4 +1,0 @@
-Hello, World!
-This is a test file.
-Python is great for file handling.
-Enjoy coding!
