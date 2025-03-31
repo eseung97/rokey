@@ -1,5 +1,0 @@
-f =open("C:/rokey/ch12/pizza_file1.txt",'w', encoding='utf-8')
-f.write("페페로니피자 3000\n")
-f.write("치즈피자 3200\n")
-f.write("콤비네이션피자 3500\n")
-f.close()
